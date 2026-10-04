@@ -4,7 +4,7 @@ A responsive weather application that displays current weather and 5-day forecas
 
 ## Live Demo
 
-Visit the live application: [Weather App](https://rudraambike.github.io/simple-weather-app/)
+Visit the live application: [Weather App](https://rudraaaaa-05.github.io/simple-weather-app/)
 
 ## Features
 
